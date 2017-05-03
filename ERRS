@@ -1,0 +1,2 @@
+gcc -c readFile.c
+gcc -g main.o rootName.o readFile.o passOne.o passTwo.o error.o -o p4
